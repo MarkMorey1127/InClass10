@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenKattis10", "OpenKattis10.csproj", "{94B6F08D-AB07-4324-85C9-A50D090AD730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B6F08D-AB07-4324-85C9-A50D090AD730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B6F08D-AB07-4324-85C9-A50D090AD730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B6F08D-AB07-4324-85C9-A50D090AD730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B6F08D-AB07-4324-85C9-A50D090AD730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EA89674-00B8-4E25-9961-DB6CB98E83BF}
+	EndGlobalSection
+EndGlobal
